@@ -1,0 +1,12 @@
+name: BMICalc
+title: BMICalc
+username:
+account: bparisi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 404657
+bundleId: 1547730
+url: https://bparisi.shinyapps.io/BMICalc/
+when: 1534900191.9645
+asMultiple: FALSE
+asStatic: FALSE
